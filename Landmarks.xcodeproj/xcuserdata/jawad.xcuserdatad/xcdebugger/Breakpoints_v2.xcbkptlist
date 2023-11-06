@@ -3,4 +3,86 @@
    uuid = "2600451A-3FDC-4261-9267-9B11B7ACBED3"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79F71C85-EEC1-4C04-BDAF-2C010CD657AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Landmarks/Views/Profiles/ProfileHost.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "79F71C85-EEC1-4C04-BDAF-2C010CD657AC - 5d05c851ab100846"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.EditButton)&gt;&gt;, SwiftUI._ConditionalContent&lt;Landmarks.ProfileSummary, SwiftUI.Text&gt;)&gt; in Landmarks.ProfileHost.body.getter : some"
+                  moduleName = "Landmarks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jawad/Development/SwiftUI/Landmarks/Landmarks/Views/Profiles/ProfileHost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "976">
+               </Location>
+               <Location
+                  uuid = "79F71C85-EEC1-4C04-BDAF-2C010CD657AC - 6acf515de2472d46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.EditButton)&gt;&gt;, SwiftUI._ConditionalContent&lt;Landmarks.ProfileSummary, Landmarks.ProfileEditor&gt;)&gt; in Landmarks.ProfileHost.body.getter : some"
+                  moduleName = "Landmarks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jawad/Development/SwiftUI/Landmarks/Landmarks/Views/Profiles/ProfileHost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "350BD2A8-927F-4EB4-A5C8-D1A72A1C5CC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Landmarks/Views/Profiles/ProfileHost.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93BBB251-A236-475D-AAC9-95223C7C926F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Landmarks/Views/Profiles/ProfileHost.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
