@@ -49,6 +49,21 @@
                   endingLineNumber = "21"
                   offsetFromSymbolStart = "1256">
                </Location>
+               <Location
+                  uuid = "79F71C85-EEC1-4C04-BDAF-2C010CD657AC - cd6265e572b4e540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI.Spacer, SwiftUI.EditButton)&gt;&gt;, SwiftUI._ConditionalContent&lt;Landmarks.ProfileSummary, &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in Landmarks.ProfileHost.body.getter : some"
+                  moduleName = "Landmarks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jawad/Development/SwiftUI/Landmarks/Landmarks/Views/Profiles/ProfileHost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1540">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
