@@ -1,0 +1,3 @@
+# Landmarks
+
+Landmarks is a beautiful and dynamic SwiftUI app, supports iOS, watchOS & macOS. With Landmarkds app, a user can view the Landmarks in a list, can explore its detail view, mark favorite a landmark. Also a user can filter the landmarks upon different categories (lakes, rivers, mountains or Favorite). A tabbar is added, where user can change the layout between list and categoreis view with feature image. A user can also check its profile where i have added some animated custom graph views. I also created an interface with UIKit which is a custom page control. This project perfectly runs and compatible with watchOS and macOS.
